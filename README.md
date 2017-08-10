@@ -86,3 +86,128 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ### Contributions
 
 Please have a look at [contributing.md](contributing.md)
+
+
+Awesome Hacking系列
+
+Android安全：收集了各种Android工具、报告/研究/书籍、漏洞/利用代码等资源
+
+应用安全：了解学习应用程序安全的资源列表
+
+漏洞赏金：漏洞赏金计划集合和著名赏金猎人博客列表
+
+Cheatsheets：常见的渗透测试/安全备忘录
+
+CTF：CTF框架、类库、资源、软件和教程清单
+
+网络攻击环境：可以合法地锻炼培养自己攻击技能的环境集合
+
+安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
+
+Exploit开发：学习exploit开发的资源
+
+Fuzzing：各种fuzzing图书、课程、工具、教程和易受攻击应用集合
+
+Hacking：Awesome Hacking资源列表
+
+蜜罐：包括不同类型的蜜罐、蜜罐工具、蜜罐分析等
+
+事件响应：旨在帮助安全分析师和数字取证人员
+
+工控安全：包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等
+
+信息安全：有各种信息安全公开课、培训信息
+
+IoT安全：聚合了大量IoT破解案例，如RFID、门铃、中控、可穿戴等
+
+恶意软件分析：包括恶意软件收集、开源威胁情报、检测、沙箱等
+
+开源情报：情报界的各种开源情报来源
+
+OS X和iOS安全：OS X和iOS安全工具集合
+
+Pcaptools：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源
+
+渗透测试：在线渗透测试资源、Shellcode开发、开源情报资源、社会工程资源等
+
+PHP安全：PHP生成安全随机数、加密数据、检查漏洞等类库
+
+逆向：关于逆向的图书、培训、实战、工具等
+
+安全演讲：收集了2013-2017年各类安全大会演讲视频
+
+SecLists：安全测试人员进行评估检查需要用到的技能
+
+Security：Awesome Security，一个社区驱动的知名安全资源分类集合
+
+社会工程学：仅供网络安全人员、渗透测试人员在受控环境用于教育用途
+
+静态分析：针对各种编程语言的静态分析工具、linters、代码质量检查等
+
+威胁情报：包括常见威胁情报来源、格式、架构、工具、研究标准书籍等
+
+车辆安全：关于车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等
+
+漏洞研究：相对偏学术方向，有不少书籍、会议、报告等推荐
+
+Web黑客：Web安全入门各种书籍、文档、工具
+
+Windows漏洞利用：Windows堆栈溢出、内核攻击、内存损坏、内存保护等内容资源
+
+WiFi兵工厂：针对802.11协议攻击的各类工具
+
+可用知识库
+
+API安全检查清单：当你设计、测试、发布API时，需要核对的安全细节清单
+
+APT Notes：2008年至今的所有APT行动披露报告汇总，中国出现了11次
+
+赏金漏洞披露列表：偏Web向的常见漏洞类型案例披露
+
+密码学：密码学的理论、工具、框架、资源等
+
+CFT工具：CTF从入门到了解各种工具
+
+CVE PoC库：博主从13年到现在收集的数十个CVE漏洞的PoC
+
+取证：数字取证的常见工具资源
+
+免费编程书：关于系统、数据库、IDE、编程语言等方面的免费书
+
+灰帽黑客资源：CTF、加密学、Linux Hacking、USB Hacking、漏洞等
+
+信息安全入门：包括信息安全博客、认证、课程、社区、播客、工具等
+
+安全资源：一个类似MITRE ATT&C的框架
+
+IOC：常见IOC资源、工具
+
+Linux内核利用库：2005年至今的Linux内核利用技术演讲、漏洞、Writeups等
+
+网络安全领域的机器学习：相关研究的数据集、论文、书籍、演讲等
+
+恶意软件脚本：博主收集的二十几个脚本
+
+Payloads：一大波常见Web攻击Payloads
+
+Payloads集合：比上面这个更丰富的常见Web攻击Payloads
+
+五星级Cheatsheets：包括OS X命令行、PowerShell命令行、Google Dorks、Shodan、exploit开发、Java反序列化等最全备忘
+
+Pentest Wiki：博主收集的在线安全知识库，里边涵盖网络分析、Web应用、开源情报、漏洞分析、编程开发等多个领域
+
+字典：作者自称找了超过80GB密码库，从中总结出这个字典项目
+
+Resource List：零碎的GitHub安全项目汇总，涉及PWND、PowerShell、CTF、恶意软件等
+
+逆向工程：常见软件、类库、书籍、技术分析、开发等
+
+RF安全工具箱：国人@cn0xroot 聚合的各类射频资源集合，包括SDR、GSM、3G、4G LTE、NFC&RFID、ZigBee等
+
+安全备忘录：收集了许多信息安全工具和主题
+
+安全清单：一大波详实的全系列安全资源
+
+Shell：一系列Shell命令行、工具、指南等
+
+威胁猎人攻略：帮助安全分析师利用Sysmon和Windows Events日志来进行事件分析，涉及Splunk、ELK、Sigma、GrayLog等工具
